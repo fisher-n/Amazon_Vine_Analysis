@@ -17,7 +17,7 @@ Unpaid Reviews
 with 45858 total of paid five start reviews,
 giving a percentage of about 47%.
 
-Analysis
+## Summary
 42% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 47%.
 Also, the total review in the unpaid vine program were more important that the paid program.
 That's to say, and as per the percentage calculated, we can conclude that analysis the vine program does not show any big bias.
