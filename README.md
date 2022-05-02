@@ -11,6 +11,7 @@ Paid Reviews
 7 total paid reviews.
 with 0 total of paid five start reviews,
 giving a percentage of 0%.
+
 Unpaid Reviews
 
 105979 total unpaid reviews.
